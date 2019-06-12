@@ -1,6 +1,5 @@
 ![GoToMyAccounts Logo](https://gtma.s3.amazonaws.com/images-public/logos/gtma_logo_150.png)
-# GoToMyAccountsWeb
-GoToMyAccounts Web Application
+# GoToMyAccounts Web
 
 This repository is setup to expose a publicly visible issue tracking system.
 
